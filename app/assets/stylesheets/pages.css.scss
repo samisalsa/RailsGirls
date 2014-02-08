@@ -1,0 +1,29 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+		background-color:#FFF;
+		font-family:Calibri;
+	}
+h1 {
+		color: #7109AA;
+		text-transform:uppercase;
+		margin:40px 0px auto;
+	}
+hr {
+		color:#9FEE00;
+		border: solid 2px;
+		background-color:#9FEE00;
+	}
+.center-stripe {
+		background-color:#FFF;
+
+		margin: 0px auto;
+		position:absolute;
+		top: 0px;
+		bottom:0px;
+		left:20%;
+	}
+.container {
+		margin:0px auto;
+ }
